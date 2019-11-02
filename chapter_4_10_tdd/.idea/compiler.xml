@@ -9,8 +9,8 @@
         <module name="chapter_4_10_tdd" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="chapter_4_10_tdd" target="1.5" />
+    <bytecodeTargetLevel target="9">
+      <module name="chapter_4_10_tdd" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
